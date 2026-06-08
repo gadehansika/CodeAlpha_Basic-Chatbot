@@ -1,2 +1,20 @@
-# CodeAlpha_Basic-Chatbot
-A simple rule-based chatbot developed in Python that responds to predefined user inputs and demonstrates basic conversational logic.
+# Basic Chatbot
+
+## Description
+A simple chatbot developed using Python that responds to predefined user inputs.
+
+## Features
+- Interactive conversation
+- Predefined responses
+- Easy to use
+
+## Technologies Used
+- Python
+
+## How to Run
+1. Open the project in VS Code or any Python IDE.
+2. Run the chatbot.py file.
+3. Enter a message and receive a response from the chatbot.
+
+## Author
+Developed during the CodeAlpha Python Programming Internship.
